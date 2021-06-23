@@ -1,0 +1,9 @@
+lib/my/*~
+lib/my/*.o
+include/*~
+src/*~
+src/*#
+*~
+*#
+lib/my/libmy.a
+vg*
